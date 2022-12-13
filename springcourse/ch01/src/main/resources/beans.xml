@@ -26,8 +26,8 @@
     <bean id="mydate" class="java.util.Date" />
 
 </beans>
-        <!--
-           spring的配置文件
-           1.beans : 是根标签，spring把java对象成为bean。
-           2.spring-beans.xsd 是约束文件，和mybatis指定  dtd是一样的。
-        -->
+<!--
+   spring的配置文件
+   1.beans : 是根标签，spring把java对象成为bean。
+   2.spring-beans.xsd 是约束文件，和mybatis指定  dtd是一样的。
+-->

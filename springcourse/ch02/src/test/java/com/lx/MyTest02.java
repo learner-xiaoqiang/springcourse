@@ -15,7 +15,7 @@ public class MyTest02 {
    @Test
     public void test01(){
        System.out.println("=====test01========");
-       String config="ba02/applicationContext.xml";
+       String config="bao02/applicationContext.xml";
        ApplicationContext ac = new ClassPathXmlApplicationContext(config);
 
        //从容器中获取Student对象

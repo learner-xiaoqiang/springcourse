@@ -1,6 +1,6 @@
 package com.lx.ba06;
 
-import com.bjpowernode.ba02.Student;
+import com.lx.ba02.Student;
 
 public interface SomeService {
     void doSome(String name, Integer age);
